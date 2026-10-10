@@ -9,33 +9,7 @@
 
 <!-- ================= PROFILE INTRO ================= -->
 
-<table>
-<tr>
-<td width="28%" align="center" valign="middle">
-
-<img src="./assets/profile-photo.jpg" width="190" alt="Thanay Krishna"/>
-
-<br/><br/>
-
-<strong>THANAY-KRISHNA</strong>
-
-<sub>Data Science · AI · Development</sub>
-
-<br/><br/>
-
-<a href="https://github.com/THANAY-KRISHNA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/>
-
-<a href="https://thanay.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-</td>
-
-<td width="72%" valign="middle">
+<div align="center">
 
 # Hey there, I'm Thanay Krishna 👋
 
@@ -45,15 +19,25 @@ Building intelligent systems, exploring AI and Data Science, and turning ideas i
 
 <br/>
 
-🧠 **AI & Data Science** · 💻 **Web Development** · 🏆 **Hackathons**
+🧠 **AI & Data Science** &nbsp;·&nbsp; 💻 **Web Development** &nbsp;·&nbsp; 🏆 **Hackathons**
 
 🌱 Learning continuously and building projects that solve real-world problems.
 
 📍 Thrissur, Kerala, India
 
-</td>
-</tr>
-</table>
+<br/><br/>
+
+<a href="https://github.com/THANAY-KRISHNA">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://thanay.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/THANAY-KRISHNA?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+</div>
 
 ---
 
@@ -257,9 +241,6 @@ Innovation and problem-solving
 
 <img src="https://streak-stats.demolab.com?user=THANAY-KRISHNA&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=THANAY-KRISHNA&bg_color=0D1117&color=C9D1D9&line=3FB950&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
