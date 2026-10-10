@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=%3E_B.TECH+CSE+(DATA+SCIENCE)+STUDENT;%3E_BUILDING+INTELLIGENT+AI+SYSTEMS;%3E_1ST+PRIZE+%40+NASA+SPACE+APPS+CHALLENGE;%3E_1ST+PLACE+%40+SINOVA'26+HACKATHON" alt="Pixel HUD Typewriter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=%3E_B.TECH+CSE+(DATA+SCIENCE)+STUDENT;%3E_BEST+AI%2FML+SOLUTION+%40+YUKTHI'26;%3E_1ST+PRIZE+%40+NASA+SPACE+APPS+CHALLENGE;%3E_1ST+PLACE+%40+SINOVA'26+HACKATHON" alt="Pixel HUD Typewriter" />
 </p>
 
 ---
@@ -184,9 +184,28 @@ Explore my other experiments in:
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33.33%" align="center" valign="top">
 
-### 🌌 NASA Space Apps Challenge
+### 🤖 YUKTHI 2026
+`[ BEST_AI_ML_SOLUTION ]`
+
+**🏆 Best AI/ML Solution**
+
+National Level Hackathon · BMCE Kollam
+
+Project: **V.O.I.D.E.** · Team HOPE-INT-CORE
+
+<br/>
+
+<a href="https://lnkd.in/p/dyjJ77ux">
+<img src="https://img.shields.io/badge/%5B_VIEW_POST_%5D-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Post"/>
+</a>
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+### 🌌 NASA Space Apps
 `[ MISSION_ACCOMPLISHED ]`
 
 **🥇 First Prize — Thrissur Local Event**
@@ -197,7 +216,7 @@ BloomWatch Pro · Earth & Space Science
 
 </td>
 
-<td width="50%" align="center">
+<td width="33.33%" align="center" valign="top">
 
 ### ⚡ SINOVA'26
 `[ NATIONAL_WINNER ]`
@@ -206,7 +225,7 @@ BloomWatch Pro · Earth & Space Science
 
 🏆 **₹30,000 Prize**
 
-Innovation and Problem-Solving
+Innovation & Problem-Solving
 
 </td>
 </tr>
