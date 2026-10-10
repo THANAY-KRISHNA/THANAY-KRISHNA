@@ -226,7 +226,7 @@ Innovation and Problem-Solving
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=THANAY-KRISHNA&background=0D1117&border=238636&stroke=238636&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=THANAY-KRISHNA&background=0D1117&border=238636&stroke=238636&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
