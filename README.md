@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:238636&height=190&section=header&text=THANAY%20KRISHNA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Create%20%E2%80%A2%20Repeat&descAlignY=60&descSize=16" width="100%" alt="Thanay Krishna profile banner"/>
+<img src="./assets/header-banner.png" width="100%" alt="Thanay Krishna Profile Banner"/>
 
 # 👋 Hey there, I'm Thanay Krishna
 
