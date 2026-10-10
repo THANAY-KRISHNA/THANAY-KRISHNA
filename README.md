@@ -1,136 +1,211 @@
+<!-- ========== HERO ========== -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:1E293B&height=180&section=header&text=Thanay%20Krishna&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Software%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Thanay Krishna Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:238636&height=190&section=header&text=THANAY%20KRISHNA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Create%20%E2%80%A2%20Repeat&descAlignY=60&descSize=16" width="100%" alt="Thanay Krishna profile banner"/>
+
+# 👋 Hey there, I'm Thanay Krishna
+
+### Data Science Student · AI Enthusiast · Developer
+
+Building intelligent systems, exploring AI, and turning ideas into useful digital products.
+
+<a href="https://github.com/THANAY-KRISHNA">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://thanay.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/THANAY-KRISHNA?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(Data+Science)+Undergraduate;Building+Intelligent+Systems+%26+Digital+Products;NASA+Space+Apps+Challenge+1st+Prize+%26+Global+Nominee;SINOVA'26+National+Hackathon+1st+Place+Winner" alt="Dynamic Typing Headline" />
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/THANAY-KRISHNA">
-    <img src="https://img.shields.io/badge/GitHub-THANAY--KRISHNA-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Specialization-Data%20Science-0284c7?style=flat-square" alt="Specialization" />
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Innovating-059669?style=flat-square" alt="Status" />
-</p>
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🎓 B.Tech CSE student specializing in Data Science
+- 🧠 Interested in AI, machine learning, and predictive analytics
+- 💻 Building web applications and intelligent systems
+- 🌍 Exploring the intersection of software, data, and real-world problems
+- 🚀 Hackathon participant and technology enthusiast
+- 🤝 Open to interesting projects and collaboration
+
+</td>
+<td width="40%" valign="top">
+
+### Current Focus
+
+- ⚡ Patchwise development
+- 🧠 AI and data-driven systems
+- 🌐 Full-stack engineering
+- 🔬 Building practical projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 About Me
+## ⚙️ Tech Stack
 
-I am a **Computer Science and Engineering (Data Science)** undergraduate dedicated to architecting intelligent software, machine learning solutions, and resilient web platforms.
+<div align="center">
 
-- 🎓 **Academics**: Pursuing B.Tech CSE with a core specialization in **Data Science**.
-- 🧠 **Focus**: Exploring artificial intelligence, predictive modeling, and scalable data-driven systems.
-- 💻 **Engineering**: Translating complex ideas and analytical models into polished, production-ready digital products.
-- 🏆 **Hackathons**: Passionate builder with a track record of national-level hackathon victories.
-- 🤝 **Collaboration**: Always keen to collaborate on high-impact software, open-source initiatives, and AI research.
+### Languages
 
----
+<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,mysql&theme=dark" alt="Programming languages"/>
 
-## 🛠️ Stack & Technologies
+### Frontend & Backend
 
-<p align="left"><b>Core Languages</b></p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,nodejs&theme=dark" alt="Web development tools"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+### Cloud, Database & Tools
 
-<p align="left"><b>Web & UI Frameworks</b></p>
+<img src="https://skillicons.dev/icons?i=supabase,firebase,aws,git,github,linux,vscode&theme=dark" alt="Development tools"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<p align="left"><b>Backend, Cloud & Tooling</b></p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 BloomWatch Pro</h3>
-      <p>A biodiversity-focused intelligence platform exploring automated species identification, environmental telemetry, and predictive ecological insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Data_Science-2563EB?style=flat-square" alt="Data Science" />
-        <img src="https://img.shields.io/badge/Predictive_AI-059669?style=flat-square" alt="Predictive AI" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 MEDOS</h3>
-      <p><b>Medical Early Detection & Observation System</b> — a clinical telemetry and proactive decision-support project designed for health monitoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>⚡ <a href="https://github.com/THANAY-KRISHNA/Patchwise">Patchwise</a></h3>
-      <p>An ongoing software engineering initiative engineered to provide a structured, resilient, and high-velocity developer experience for modern systems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 BloomWatch Pro
+
+An AI-powered biodiversity and flowering intelligence platform exploring environmental changes using Earth observation data.
+
+**Highlights**
+- 🌎 Interactive 3D Earth visualization
+- 🧠 AI-powered species identification
+- 📊 Predictive ecological insights
+
+<a href="https://bloomwatch-pro.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="BloomWatch Pro demo"/>
+</a>
+<a href="https://github.com/THANAY-KRISHNA">
+  <img src="https://img.shields.io/badge/Source_Code-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 MEDOS
+
+**Medical Early Detection & Observation System**
+
+A clinical monitoring and decision-support prototype designed to help visualize patient deterioration risks.
+
+**Highlights**
+- 📈 Patient vital-sign monitoring
+- 🧠 Explainable risk assessment
+- 🩺 Clinician-oriented decision support
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Patchwise
+
+An ongoing software engineering project focused on building a structured and reliable developer experience.
+
+**Highlights**
+- ⚙️ Backend foundation and APIs
+- 🧪 Testing and stabilization
+- 🖥️ Next.js dashboard development
+
+<a href="https://github.com/THANAY-KRISHNA/Patchwise">
+  <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="Patchwise repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Projects
+
+I also explore web development, data processing, IoT, and student-focused technology solutions.
+
+Browse my repositories to discover more experiments, projects, and code.
+
+<a href="https://github.com/THANAY-KRISHNA?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Projects-30363D?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🏆 Honors & Recognition
+## 🏆 Achievements
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌌 NASA Space Apps Challenge (Thrissur)</h4>
-      <p><b>🥇 First Prize & Global Nominee</b></p>
-      <p>Awarded First Place regionally and nominated globally for engineering an innovative data-driven solution addressing complex earth and space science challenges.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ SINOVA'26 National Hackathon</h4>
-      <p><b>🥇 First Place Winner</b></p>
-      <p>Secured 1st Place at the national hackathon for architecting and presenting high-performance, robust software under intense competitive constraints.</p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+
+### 🌌 NASA Space Apps Challenge
+
+🥇 **First Prize — Thrissur Local Event**
+
+🌍 **Selected Global Nominee**
+
+BloomWatch Pro · Earth and space science
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ SINOVA'26
+
+🥇 **First Place — National Hackathon**
+
+🏆 ₹30,000 prize
+
+Recognized for innovation and problem-solving
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THANAY-KRISHNA&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANAY-KRISHNA&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=THANAY-KRISHNA&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/THANAY-KRISHNA">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THANAY-KRISHNA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/THANAY-KRISHNA">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANAY-KRISHNA&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=THANAY-KRISHNA&hide_border=true&background=0D1117&ring=3FB950&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=THANAY-KRISHNA&bg_color=0D1117&color=C9D1D9&line=3FB950&point=58A6FF&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:1E293B&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p>
-    <i>"Learning continuously. Building consistently. Innovating fearlessly."</i>
-  </p>
+
+### 💬 A little about my journey
+
+**Learn continuously. Build consistently. Innovate fearlessly.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:12372A,100:0D1117&height=100&section=footer" width="100%" alt="Green footer banner"/>
+
 </div>
