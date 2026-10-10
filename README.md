@@ -2,7 +2,9 @@
 <!-- ================= HERO BANNER ================= -->
 
 <div align="center">
-  <img src="./assets/header-banner.png" width="100%" alt="Thanay Krishna — Cyber Tech Banner"/>
+  <a href="https://thanay.vercel.app/">
+    <img src="./assets/header-banner.png" width="100%" alt="Thanay Krishna — Cyber Tech Banner"/>
+  </a>
 </div>
 
 ---
