@@ -5,40 +5,6 @@
   <img src="./assets/header-banner.png" width="100%" alt="Thanay Krishna — Cyber Tech Banner"/>
 </div>
 
-<br/>
-
-<!-- ================= PROFILE INTRO ================= -->
-
-<div align="center">
-
-# Hey there, I'm Thanay Krishna 👋
-
-### DATA SCIENCE STUDENT | AI ENTHUSIAST | DEVELOPER
-
-Building intelligent systems, exploring AI and Data Science, and turning ideas into useful digital products.
-
-<br/>
-
-🧠 **AI & Data Science** &nbsp;·&nbsp; 💻 **Web Development** &nbsp;·&nbsp; 🏆 **Hackathons**
-
-🌱 Learning continuously and building projects that solve real-world problems.
-
-📍 Thrissur, Kerala, India
-
-<br/><br/>
-
-<a href="https://github.com/THANAY-KRISHNA">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://thanay.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/THANAY-KRISHNA?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-
-</div>
-
 ---
 
 <!-- ================= TECH STACK ================= -->
