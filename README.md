@@ -210,28 +210,6 @@ Innovation and Problem-Solving
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-## 📊 SYSTEM_METRICS
-
-<div align="center">
-
-<a href="https://github.com/THANAY-KRISHNA">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=THANAY-KRISHNA&show_icons=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&border_color=238636" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/THANAY-KRISHNA">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANAY-KRISHNA&layout=compact&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&border_color=238636" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=THANAY-KRISHNA&background=0D1117&border=238636&stroke=238636&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### `[ BUILD · LEARN · CREATE · REPEAT ]`
