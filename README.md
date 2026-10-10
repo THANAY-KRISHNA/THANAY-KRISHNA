@@ -88,7 +88,7 @@ Turning ideas into working prototypes.
 <td width="50%" valign="top">
 
 <a href="https://bloomwatch-pro.vercel.app/">
-<img src="https://placehold.co/600x240/0d1117/3fb950/png?text=%5B+BLOOMWATCH+PRO+%5D&font=monospace" width="100%" alt="BloomWatch Pro project preview"/>
+<img src="./assets/project-bloomwatch.png" width="100%" alt="BloomWatch Pro project banner"/>
 </a>
 
 ### 🌍 BloomWatch Pro
@@ -110,7 +110,7 @@ An environmental intelligence project focused on biodiversity, species identific
 
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x240/0d1117/3fb950/png?text=%5B+MEDOS+%5D&font=monospace" width="100%" alt="MEDOS project preview"/>
+<img src="./assets/project-medos.png" width="100%" alt="MEDOS project banner"/>
 
 ### 🏥 MEDOS
 > `STATUS: PROTOTYPE` • `TYPE: CLINICAL_MONITORING`
@@ -130,7 +130,7 @@ A clinical monitoring and decision-support prototype for visualizing patient det
 <td width="50%" valign="top">
 
 <a href="https://github.com/THANAY-KRISHNA/Patchwise">
-<img src="https://placehold.co/600x240/0d1117/3fb950/png?text=%5B+PATCHWISE+%5D&font=monospace" width="100%" alt="Patchwise project preview"/>
+<img src="./assets/project-patchwise.png" width="100%" alt="Patchwise project banner"/>
 </a>
 
 ### 🛠️ Patchwise
@@ -151,6 +151,10 @@ An ongoing software engineering project focused on a structured and reliable dev
 </td>
 
 <td width="50%" valign="top">
+
+<a href="https://github.com/THANAY-KRISHNA?tab=repositories">
+<img src="./assets/project-more.png" width="100%" alt="More Projects banner"/>
+</a>
 
 ### 💡 More Projects
 > `STATUS: ARCHIVE` • `TYPE: EXPLORATION`
