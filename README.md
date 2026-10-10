@@ -1,4 +1,3 @@
-
 <!-- ================= HERO BANNER ================= -->
 
 <div align="center">
@@ -7,11 +6,15 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=%3E_B.TECH+CSE+(DATA+SCIENCE)+STUDENT;%3E_BUILDING+INTELLIGENT+AI+SYSTEMS;%3E_1ST+PRIZE+%40+NASA+SPACE+APPS+CHALLENGE;%3E_1ST+PLACE+%40+SINOVA'26+HACKATHON" alt="Pixel HUD Typewriter" />
+</p>
+
 ---
 
 <!-- ================= TECH STACK ================= -->
 
-## ⚡ TECH STACK
+## ⚡ TECH_STACK
 
 <div align="center">
 
@@ -27,15 +30,16 @@
 
 <!-- ================= FOCUS AREAS ================= -->
 
-## ◈ WHAT I DO
+## ◈ WHAT_I_DO
 
 <table>
 <tr>
 <td width="25%" align="center">
 
 ### 🧠
-
 **AI & Data Science**
+
+`[ PREDICTIVE_AI ]`
 
 Predictive analytics and intelligent applications.
 
@@ -43,8 +47,9 @@ Predictive analytics and intelligent applications.
 <td width="25%" align="center">
 
 ### 💻
-
 **Web Development**
+
+`[ MODERN_STACK ]`
 
 Modern web apps and developer tools.
 
@@ -52,8 +57,9 @@ Modern web apps and developer tools.
 <td width="25%" align="center">
 
 ### 🌐
-
 **Open Source**
+
+`[ COLLABORATION ]`
 
 Learning, sharing, and collaborating.
 
@@ -61,8 +67,9 @@ Learning, sharing, and collaborating.
 <td width="25%" align="center">
 
 ### 🏆
-
 **Hackathons**
+
+`[ PROTOTYPING ]`
 
 Turning ideas into working prototypes.
 
@@ -74,17 +81,18 @@ Turning ideas into working prototypes.
 
 <!-- ================= PROJECTS ================= -->
 
-## 🚀 FEATURED PROJECTS
+## 🚀 FEATURED_PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://bloomwatch-pro.vercel.app/">
-<img src="https://placehold.co/600x240/0d1117/3fb950?text=BloomWatch+Pro" width="100%" alt="BloomWatch Pro project preview"/>
+<img src="https://placehold.co/600x240/0d1117/3fb950/png?text=%5B+BLOOMWATCH+PRO+%5D&font=monospace" width="100%" alt="BloomWatch Pro project preview"/>
 </a>
 
 ### 🌍 BloomWatch Pro
+> `STATUS: ONLINE` • `TYPE: AI_EARTH_OBSERVATION`
 
 An environmental intelligence project focused on biodiversity, species identification, and ecological insights.
 
@@ -92,17 +100,20 @@ An environmental intelligence project focused on biodiversity, species identific
 - 🧠 AI-assisted species identification
 - 📊 Predictive ecological insights
 
+<br/>
+
 <a href="https://bloomwatch-pro.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
+<img src="https://img.shields.io/badge/%5B_LIVE_DEMO_%5D-238636?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x240/0d1117/3fb950?text=MEDOS" width="100%" alt="MEDOS project preview"/>
+<img src="https://placehold.co/600x240/0d1117/3fb950/png?text=%5B+MEDOS+%5D&font=monospace" width="100%" alt="MEDOS project preview"/>
 
 ### 🏥 MEDOS
+> `STATUS: PROTOTYPE` • `TYPE: CLINICAL_MONITORING`
 
 **Medical Early Detection & Observation System**
 
@@ -119,10 +130,11 @@ A clinical monitoring and decision-support prototype for visualizing patient det
 <td width="50%" valign="top">
 
 <a href="https://github.com/THANAY-KRISHNA/Patchwise">
-<img src="https://placehold.co/600x240/0d1117/3fb950?text=Patchwise" width="100%" alt="Patchwise project preview"/>
+<img src="https://placehold.co/600x240/0d1117/3fb950/png?text=%5B+PATCHWISE+%5D&font=monospace" width="100%" alt="Patchwise project preview"/>
 </a>
 
 ### 🛠️ Patchwise
+> `STATUS: IN_DEV` • `TYPE: DEVELOPER_TOOLING`
 
 An ongoing software engineering project focused on a structured and reliable developer experience.
 
@@ -130,8 +142,10 @@ An ongoing software engineering project focused on a structured and reliable dev
 - 🧪 Testing and stabilization
 - 🖥️ Next.js dashboard
 
+<br/>
+
 <a href="https://github.com/THANAY-KRISHNA/Patchwise">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Patchwise repository"/>
+<img src="https://img.shields.io/badge/%5B_VIEW_REPO_%5D-30363D?style=flat-square&logo=github&logoColor=white" alt="Patchwise repository"/>
 </a>
 
 </td>
@@ -139,6 +153,7 @@ An ongoing software engineering project focused on a structured and reliable dev
 <td width="50%" valign="top">
 
 ### 💡 More Projects
+> `STATUS: ARCHIVE` • `TYPE: EXPLORATION`
 
 Explore my other experiments in:
 
@@ -147,8 +162,10 @@ Explore my other experiments in:
 - IoT and connected systems
 - Student-focused technology
 
+<br/>
+
 <a href="https://github.com/THANAY-KRISHNA?tab=repositories">
-<img src="https://img.shields.io/badge/ALL_REPOSITORIES-30363D?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+<img src="https://img.shields.io/badge/%5B_ALL_REPOSITORIES_%5D-30363D?style=flat-square&logo=github&logoColor=white" alt="All repositories"/>
 </a>
 
 </td>
@@ -166,24 +183,26 @@ Explore my other experiments in:
 <td width="50%" align="center">
 
 ### 🌌 NASA Space Apps Challenge
+`[ MISSION_ACCOMPLISHED ]`
 
 **🥇 First Prize — Thrissur Local Event**
 
-🌍 Global Nominee
+🌍 **Global Nominee**
 
-BloomWatch Pro
+BloomWatch Pro · Earth & Space Science
 
 </td>
 
 <td width="50%" align="center">
 
 ### ⚡ SINOVA'26
+`[ NATIONAL_WINNER ]`
 
 **🥇 First Place — National Hackathon**
 
-🏆 ₹30,000 Prize
+🏆 **₹30,000 Prize**
 
-Innovation and problem-solving
+Innovation and Problem-Solving
 
 </td>
 </tr>
@@ -193,22 +212,21 @@ Innovation and problem-solving
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 
-## 📊 GITHUB ANALYTICS
+## 📊 SYSTEM_METRICS
 
 <div align="center">
 
 <a href="https://github.com/THANAY-KRISHNA">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=THANAY-KRISHNA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=THANAY-KRISHNA&show_icons=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&border_color=238636" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/THANAY-KRISHNA">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANAY-KRISHNA&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANAY-KRISHNA&layout=compact&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&border_color=238636" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=THANAY-KRISHNA&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
-
+<img src="https://streak-stats.demolab.com?user=THANAY-KRISHNA&background=0D1117&border=238636&stroke=238636&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -216,7 +234,7 @@ Innovation and problem-solving
 
 <div align="center">
 
-### BUILD · LEARN · CREATE · REPEAT
+### `[ BUILD · LEARN · CREATE · REPEAT ]`
 
 <sub>Designed with curiosity. Built with code. Driven by innovation.</sub>
 
